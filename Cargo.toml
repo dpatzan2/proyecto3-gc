@@ -1,0 +1,12 @@
+[package]
+name = "proyecto3-sistema"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+minifb = "0.25"
+nalgebra-glm = "0.18"
+image = { version = "0.24", default-features = false, features = ["png", "jpeg"] }
+fastnoise-lite = "1.1"
+tobj = "4.0"
+fastrand = "2.0"

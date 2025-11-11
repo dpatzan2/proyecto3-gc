@@ -1,0 +1,10 @@
+/home/DiegoPatzan/Documents/UVG/6TO/GRAFICAS/proyecto3/proyecto3-sistema/target/debug/deps/wayland_sys-e5a970390ff17dc7.d: /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.29.5/src/lib.rs /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.29.5/src/common.rs /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.29.5/src/client.rs /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.29.5/src/server.rs
+
+/home/DiegoPatzan/Documents/UVG/6TO/GRAFICAS/proyecto3/proyecto3-sistema/target/debug/deps/libwayland_sys-e5a970390ff17dc7.rlib: /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.29.5/src/lib.rs /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.29.5/src/common.rs /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.29.5/src/client.rs /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.29.5/src/server.rs
+
+/home/DiegoPatzan/Documents/UVG/6TO/GRAFICAS/proyecto3/proyecto3-sistema/target/debug/deps/libwayland_sys-e5a970390ff17dc7.rmeta: /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.29.5/src/lib.rs /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.29.5/src/common.rs /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.29.5/src/client.rs /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.29.5/src/server.rs
+
+/home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.29.5/src/lib.rs:
+/home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.29.5/src/common.rs:
+/home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.29.5/src/client.rs:
+/home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.29.5/src/server.rs:

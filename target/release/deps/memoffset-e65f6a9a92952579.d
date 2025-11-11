@@ -1,0 +1,10 @@
+/home/DiegoPatzan/Documents/UVG/6TO/GRAFICAS/proyecto3/proyecto3-sistema/target/release/deps/memoffset-e65f6a9a92952579.d: /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.6.5/src/lib.rs /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.6.5/src/raw_field.rs /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.6.5/src/offset_of.rs /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.6.5/src/span_of.rs
+
+/home/DiegoPatzan/Documents/UVG/6TO/GRAFICAS/proyecto3/proyecto3-sistema/target/release/deps/libmemoffset-e65f6a9a92952579.rlib: /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.6.5/src/lib.rs /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.6.5/src/raw_field.rs /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.6.5/src/offset_of.rs /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.6.5/src/span_of.rs
+
+/home/DiegoPatzan/Documents/UVG/6TO/GRAFICAS/proyecto3/proyecto3-sistema/target/release/deps/libmemoffset-e65f6a9a92952579.rmeta: /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.6.5/src/lib.rs /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.6.5/src/raw_field.rs /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.6.5/src/offset_of.rs /home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.6.5/src/span_of.rs
+
+/home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.6.5/src/lib.rs:
+/home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.6.5/src/raw_field.rs:
+/home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.6.5/src/offset_of.rs:
+/home/DiegoPatzan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.6.5/src/span_of.rs:
