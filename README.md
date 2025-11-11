@@ -48,6 +48,24 @@ cargo run --release
 > Para cambiar el tamaño de los asteroides o su comportamiento, edita `src/main.rs` (funciones de spawn y constantes).
 
 ## Screenshots
+<img width="900" height="700" alt="screenshot" src="https://github.com/user-attachments/assets/41268555-b657-4303-8368-7c24608d6cd4" />
+
+<img width="900" height="700" alt="screenshot" src="https://github.com/user-attachments/assets/425fa189-ec7a-4999-ac5f-5773dfe74cc0" />
+
+<img width="900" height="700" alt="screenshot" src="https://github.com/user-attachments/assets/773cb466-1d0c-40b4-8512-0e82c19bb03a" />
+
+<img width="900" height="700" alt="screenshot" src="https://github.com/user-attachments/assets/f41fb76d-dfb8-4da5-8809-4f705e40acdd" />
+
+<img width="900" height="700" alt="screenshot" src="https://github.com/user-attachments/assets/1a0d4ef8-9c44-44e2-befc-aa2798594ecd" />
+
+<img width="900" height="700" alt="screenshot" src="https://github.com/user-attachments/assets/e3d093f0-7c01-4428-b2dd-70f39104c268" />
+
+<img width="900" height="700" alt="screenshot" src="https://github.com/user-attachments/assets/e9c1b6a4-25eb-498a-adc7-fc679b64642f" />
+
+<img width="900" height="700" alt="screenshot" src="https://github.com/user-attachments/assets/63c1ba36-531f-48b1-8c34-5f2e7ed0c86c" />
+
+<img width="900" height="700" alt="screenshot" src="https://github.com/user-attachments/assets/7fd57f82-6367-4ed0-8003-70614b80ec69" />
+
 
 
 ## Video
