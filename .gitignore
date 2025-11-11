@@ -1,0 +1,35 @@
+# Rust / Cargo
+/target/
+
+# Backup, temp and log files
+*~
+*.swp
+*.tmp
+*.temp
+*.log
+*.rs.bk
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+
+# Caches
+.cache/
+
+# Build artifacts and binaries
+**/*.exe
+**/*.dll
+**/*.so
+**/*.dylib
+
+# Misc
+.env.local
+.env.*.local
