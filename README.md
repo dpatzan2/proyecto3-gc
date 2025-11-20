@@ -2,6 +2,12 @@
 
 Pequeña simulación/visualización en Rust que renderiza un sistema planetario en 3D.
 
+
+
+https://github.com/user-attachments/assets/3ce6defc-dcd3-4fae-a2bc-3c3407d4a656
+
+
+
 ## Qué hay aquí
 - `src/` - código fuente en Rust (render, cámaras, shaders, objetos, UI mínima).
 - `assets/` - modelos y recursos (OBJ/MTL). Aquí van las texturas y modelos (ej: `SpaceShip.obj`, `sphere.obj`, `Asteroid.obj`).
@@ -66,9 +72,6 @@ cargo run --release
 
 <img width="900" height="700" alt="screenshot" src="https://github.com/user-attachments/assets/7fd57f82-6367-4ed0-8003-70614b80ec69" />
 
-
-
-## Video
 
 
 
